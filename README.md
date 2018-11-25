@@ -1,7 +1,6 @@
-# simple_cnn_model_keras_cifar10_dataset
-# This repository contains the implementation of simple CNN Model using Keras on CIFAR-10 Dataset
+## This repository contains the implementation of simple CNN Model using Keras on CIFAR-10 Dataset
 
-## Basic of the CNN Architecture:
+### Basic of the CNN Architecture:
 -> Convolution Neural Networks(CNN) are the deep feed-forward neural networks that is used for analysing the Images.
 -> CNN is used for Classfaction of image, it outputs the probability of classes that best describe that image.
 
